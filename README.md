@@ -1,6 +1,8 @@
 # anyhash
 hash utils! make hash easier
 
+
+##Demo
 ```java
 /**
  * @author Hezf
@@ -26,4 +28,9 @@ public class Demo {
 	}
 
 }
+```
+
+##result
+```log
+125.0.2.7
 ```
