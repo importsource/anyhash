@@ -30,7 +30,7 @@ public class Demo {
 }
 ```
 
-##result
+##Result
 ```log
 125.0.2.7
 ```
